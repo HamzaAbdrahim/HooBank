@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-You can access a live demo of the HooBank Landing Page [here](https://your-username.github.io/hoobank).
+You can access a live demo of the HooBank Landing Page [here](https://ornate-faloodeh-b3483e.netlify.app/).
 
 ## Introduction
 
