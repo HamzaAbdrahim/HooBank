@@ -1,7 +1,7 @@
 <h1 align="center">HooBank - Landing Page</h1>
 
 <p align="center">
-  <img src="preview.png" alt="HooBank Landing Page Preview">
+  <img src="/src/assets/hoobank.png" alt="HooBank Landing Page Preview">
 </p>
 
 ## Live Demo
